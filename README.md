@@ -1,0 +1,2 @@
+# Sales-Profit-Dashboard-using-Excel-Data-Analysis-Project
+Sales &amp; Profit Analysis project using Excel with a single-source dataset. Data was cleaned, structured into an Excel Table, and analyzed using Pivot Tables. Conditional formatting highlighted profit and loss. An interactive dashboard with KPIs and slicers provided clear insights into sales trends, customer performance, and regional growth.
